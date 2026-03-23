@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
-
+<h1>Ticketing System Installation Lab</h1>
 <h1>Lab Objectives</h1>
   
 Deploy a working help desk environment using osTicket on a virtual machine.
@@ -95,6 +95,50 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
+Ticketing System Installation Lab
+Objective
 
+Install and configure a help desk ticketing system.
+
+Technologies / Environments Used
+osTicket
+Apache / IIS
+MySQL / MariaDB
+Linux or Windows server
+Lab Steps
+Step 1 — Create Server
+
+Deploy a virtual machine for the ticket system.
+
+Step 2 — Install Required Software
+
+Install:
+
+Web server
+PHP
+MySQL database
+Step 3 — Download osTicket
+
+Download osTicket and place it in web directory.
+
+Example:
+
+/var/www/html/osticket
+Step 4 — Create Database
+
+Create database:
+
+osticket_db
+Step 5 — Run Installer
+
+Open browser:
+
+http://server-ip/osticket
+
+Complete setup.
+
+Outcome
+
+Working help desk ticket system.
 
 # ticketing-system-install-lab
