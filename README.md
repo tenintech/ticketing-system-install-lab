@@ -150,3 +150,17 @@ http://localhost/osTicket/
 <p>
 ### 8. Adding Users and Configuring Service Level Agreements (SLA)
 
+
+
+
+⏭️Next Steps
+
+To further build hands-on experience with IT support workflows, I will be expanding this project by working with a more widely used ticketing platform: Zendesk.
+
+In the next phase, I plan to:
+
+Simulate real-world IT support tickets and help desk workflows
+Practice troubleshooting and resolving common IT issues through ticket management
+Document the lifecycle of support tickets from creation to resolution
+Demonstrate how help desk technicians prioritize, escalate, and close incidents
+
