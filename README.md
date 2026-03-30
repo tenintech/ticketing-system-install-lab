@@ -147,12 +147,13 @@ http://localhost/osTicket/
 
 <p>
   
-### 8. Adding Users and Configuring Service Level Agreements (SLA)
+### 8. Adding Agents and Configuring Service Level Agreements (SLA)
 
 Created Agent: Michael Snow 
 Admin Control --> Agents --> Add New Agent 
 <img width="592" height="477" alt="creating agent" src="https://github.com/user-attachments/assets/ad359fc2-2988-4f91-a203-102bd49e8199" />
-
+<p>
+   
 Set up 3 SLAs:
 Sev-A (Grace Period: 1 hour, Schedule: 24/7)
 Sev-B (Grace Period: 4 hours, Schedule: 24/7)
@@ -160,6 +161,8 @@ Sev-C (Grace Period: 8 hours, Business Hours)
 
 
 Admin Panel -> Manage -> SLA
+<p>
+
 <img width="542" height="454" alt="create sla" src="https://github.com/user-attachments/assets/c37440b4-5372-4994-942c-5a5173b6ac0a" />
 
 
