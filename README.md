@@ -97,9 +97,6 @@ Restarted IIS.
 <img width="485" height="437" alt="php extensions enabled" src="https://github.com/user-attachments/assets/df0bd68c-620b-4440-bc9e-f7d676580e8c" />
 This resolved the installation warnings. 
 
-p>
-<>
-</p>
 
 
 ### 6. Configure the Database
@@ -111,9 +108,9 @@ osTicket
 
 Credentials used:
 
- Username: root
+Username: root
    
- Password: root
+Password: root
 
 </p>
 <br />
