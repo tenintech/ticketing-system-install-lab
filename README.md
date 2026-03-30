@@ -3,7 +3,9 @@
 </p>
 <h1>osTicket Help Desk Deployment (Windows Server + IIS + MySQL)</h1>
 <h1>Lab Objectives</h1>
-  
+Deploy and configure the osTicket ticketing system on a Windows Server virtual machine using IIS, PHP, and MySQL to simulate a real-world IT support environment.  
+
+
 Deploy a working help desk environment using osTicket on a virtual machine.
 Configure a web server and database to support the application.
 Create departments, agents, and user accounts within the ticketing system.
@@ -146,9 +148,3 @@ http://localhost/osTicket/
 <br />
 
 <p>
-
-Outcome
-
-Working help desk ticket system.
-
-# ticketing-system-install-lab
