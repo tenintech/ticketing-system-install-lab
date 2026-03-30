@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
-<h1>Ticketing System Installation Lab</h1>
+<h1>osTicket Help Desk Deployment (Windows Server + IIS + MySQL)</h1>
 <h1>Lab Objectives</h1>
   
 Deploy a working help desk environment using osTicket on a virtual machine.
@@ -35,10 +35,26 @@ Document the full deployment and configuration process.
 - Item 5
 
 <h2>Installation Steps</h2>
-1. Create Virtual Machine in Microsoft Azure on which to install ticketing system 
-2. Install osTicket and it's dependencies from folder containing Installation Files
+1. Create and Connect to a Virtual Machine in Microsoft Azure on which to install ticketing system 
+
+Logged into the Windows Server VM using Remote Desktop Protocol (RDP).
+<p>
+<img width="935" height="352" alt="4 Connect vm to remote desktop" src="https://github.com/user-attachments/assets/00f19613-8319-4cae-a6ee-8d359eebf112">
+</p>
+<p>
+
+
+2. Install and Configure Internet Information Services (IIS)
+Enabled IIS Web Server and required feature:
+
+Application Development Features → CGI (Common Gateway Inerface) This allows the server to run scripts. 
+
+This allows PHP applications to run on IIS.
+
+
+3. Common Gateway Interface (CGI)
 Configure IIS 
-Register PHP making web server aware that PHP is on the computer 
+Register Hypertext Preprocessor (PHP) making web server aware that PHP is on the computer 
 Extract osTicket folder and copy into the root folder of the web server 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
