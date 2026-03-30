@@ -111,8 +111,9 @@ osTicket
 
 Credentials used:
 
-Username: root
-Password: root
+-- Username: root
+   
+   Password: root
 
 </p>
 <br />
