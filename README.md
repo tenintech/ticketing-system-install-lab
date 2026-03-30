@@ -93,102 +93,59 @@ Restarted IIS.
 
 ### 5. Enable Required PHP Extensions
 <img width="485" height="437" alt="php extensions enabled" src="https://github.com/user-attachments/assets/df0bd68c-620b-4440-bc9e-f7d676580e8c" />
+This resolved the installation warnings. 
+
 p>
 <>
 </p>
 <p>
- Within the virtual machine, I downloaded the required osTicket Installation Files and saved them locally to the desktop. I then extracted the contents into a structured directory named osTicket-Installation-Files, ensuring all required installation dependencies and components were properly organized before application deployment.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+### 6. Configure the Database
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+Installed HeidiSQL and created the osTicket database:
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-Ticketing System Installation Lab
-Objective
-
-Install and configure a help desk ticketing system.
-
-Technologies / Environments Used
+Database name:
 osTicket
-Apache / IIS
-MySQL / MariaDB
-Linux or Windows server
-Lab Steps
-Step 1 — Create Server
 
-Deploy a virtual machine for the ticket system.
+Credentials used:
 
-Step 2 — Install Required Software
+Username: root
+Password: root
 
-Install:
+</p>
+<br />
+<img width="731" height="451" alt="20  Connecting to database session " src="https://github.com/user-attachments/assets/462d82ce-97ac-4eb1-b2f3-1e8ef2ed3bd2" />
 
-Web server
-PHP
-MySQL database
-Step 3 — Download osTicket
+<p>
 
-Download osTicket and place it in web directory.
+</p>
+<br />
 
-Example:
+### 7. Complete osTicket Installation
 
-/var/www/html/osticket
-Step 4 — Create Database
+Finished the setup through the web installer and confirmed the system was operational.
 
-Create database:
+Admin portal:
 
-osticket_db
-Step 5 — Run Installer
+http://localhost/osTicket/scp/login.php
 
-Open browser:
+End user portal:
 
-http://server-ip/osticket
+http://localhost/osTicket/
 
-Complete setup.
+<p>
+
+<img width="689" height="455" alt="21  osTicket running" src="https://github.com/user-attachments/assets/01a00add-3eb8-4137-9b1b-565b37e27cdb" />
+
+
+</p>
+<p>
+<img width="764" height="457" alt="admin dash" src="https://github.com/user-attachments/assets/e52ada2d-c6a4-41fc-bf47-bf349552f000" />
+
+</p>
+<br />
+
+<p>
 
 Outcome
 
