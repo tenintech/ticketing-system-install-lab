@@ -153,7 +153,7 @@ http://localhost/osTicket/
 
 
 
-⏭️Next Steps
+## ⏭️Next Steps
 
 To further build hands-on experience with IT support workflows, I will be expanding this project by working with a more widely used ticketing platform: Zendesk.
 
