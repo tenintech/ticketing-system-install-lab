@@ -100,7 +100,7 @@ This resolved the installation warnings.
 p>
 <>
 </p>
-<p>
+
 
 ### 6. Configure the Database
 
