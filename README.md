@@ -148,6 +148,7 @@ http://localhost/osTicket/
 <br />
 
 <p>
+  
 ### 8. Adding Users and Configuring Service Level Agreements (SLA)
 
 
