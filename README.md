@@ -165,6 +165,8 @@ Admin Panel -> Manage -> SLA
 
 <img width="542" height="454" alt="create sla" src="https://github.com/user-attachments/assets/c37440b4-5372-4994-942c-5a5173b6ac0a" />
 
+## What I learned 
+Installing the ticketing system taught me essential IT service management (ITSM) skills, like workflow automation, ticket categorization, and SLA management. I learned to configure portals and permissions, and learned some functions an administrator might perform to set up a ticketing system for a new organizaton and onboard new agents. 
 
 ## ⏭️Next Steps
 
