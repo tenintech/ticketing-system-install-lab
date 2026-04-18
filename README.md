@@ -50,6 +50,8 @@ Logged into the Windows Server VM using Remote Desktop Protocol (RDP).
 ### 2. Install and Configure Internet Information Services (IIS)
 Enabled IIS Web Server and required feature:
 
+Opened Control Panel -> Programs -> Programs and Features in order to configure IIS
+
 Application Development Features → CGI (Common Gateway Inerface) This allows the server to run scripts. 
 
 This allows PHP applications to run on IIS.
@@ -60,7 +62,7 @@ This allows PHP applications to run on IIS.
 
 ### 3. Install Required Dependencies
 
-Installed the required components for osTicket:
+Used a folder with installation files to install the required components for osTicket:
 
 - PHP (Hypertext Preprocessor) Manager for IIS
 - IIS Rewrite Module
