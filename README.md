@@ -98,10 +98,15 @@ Renamed:
 upload → osTicket
 
 Restarted IIS. Stop and restart server to reset.
-<img width="503" height="369" alt="12  mysql installed " src="https://github.com/user-attachments/assets/20d95559-b049-42a2-a3a0-a05b17b329ec" />
+<img width="1551" height="944" alt="Screenshot 2026-03-22 005845" src="https://github.com/user-attachments/assets/96af769f-391c-41ea-bb0d-4be3fbc232ec" />
+
 
 
 ### 5. Enable Required PHP Extensions
+Some of needed extensions are disabled. 
+<img width="1815" height="958" alt="Screenshot 2026-03-22 011647" src="https://github.com/user-attachments/assets/a9ba9529-9bcb-4117-93f3-1341bd9494f0" />
+
+
 <img width="485" height="437" alt="php extensions enabled" src="https://github.com/user-attachments/assets/df0bd68c-620b-4440-bc9e-f7d676580e8c" />
 This resolved the installation warnings. 
 
