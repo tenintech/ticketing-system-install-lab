@@ -107,6 +107,7 @@ Some of needed extensions are disabled.
 <img width="1815" height="958" alt="Screenshot 2026-03-22 011647" src="https://github.com/user-attachments/assets/a9ba9529-9bcb-4117-93f3-1341bd9494f0" />
 
 
+Enabled some of the extensions listed as prerequisites for installation.
 <img width="485" height="437" alt="php extensions enabled" src="https://github.com/user-attachments/assets/df0bd68c-620b-4440-bc9e-f7d676580e8c" />
 This resolved the installation warnings. 
 
