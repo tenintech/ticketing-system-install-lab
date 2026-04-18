@@ -132,6 +132,9 @@ Password: root
 
 <p>
 
+Assigned permissions to Everyone
+<img width="1538" height="955" alt="Screenshot 2026-03-22 012319" src="https://github.com/user-attachments/assets/17709491-05ff-42ac-9e1e-252d350a28e2" />
+
 </p>
 <br />
 
