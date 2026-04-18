@@ -83,7 +83,7 @@ Registered PHP inside IIS. This is a language that will allow osTicket to run.
 
 ### 4. Deploy osTicket to IIS
 
-Extracted the osTicket files and moved them into the web server directory:
+Extracted the osTicket php language files and moved them into the web server directory. a file I named PHP on the C Drive:
 <img width="907" height="446" alt="10 Extracting PHP files copying to C drive" src="https://github.com/user-attachments/assets/436ff4a8-aeff-454f-a462-8879245346dd" />
 
 C:\inetpub\wwwroot
