@@ -48,7 +48,7 @@ Logged into the Windows Server VM using Remote Desktop Protocol (RDP).
 
 
 ### 2. Install and Configure Internet Information Services (IIS)
-Enabled IIS Web Server and required feature:
+Enabled IIS Web Server and required features so that osTicket can run on the server:
 
 Opened Control Panel -> Programs -> Programs and Features in order to configure IIS
 
