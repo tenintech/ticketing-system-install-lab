@@ -132,7 +132,9 @@ Password: root
 
 <p>
 
-Assigned permissions to Everyone
+Opened Advanced Security Settings for os-config file to assign permissions to Everyone in order to make changes in osTicket
+<img width="1305" height="955" alt="permissions" src="https://github.com/user-attachments/assets/91be469c-2ed7-41d6-a5e9-a980098603d4" />
+
 <img width="1538" height="955" alt="Screenshot 2026-03-22 012319" src="https://github.com/user-attachments/assets/17709491-05ff-42ac-9e1e-252d350a28e2" />
 
 </p>
