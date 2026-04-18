@@ -135,7 +135,7 @@ Opened Advanced Security Settings for os-config file to assign permissions to Ev
 
 ### 7. Complete osTicket Installation
 
-Finished the setup through the web installer and confirmed the system was operational. in System Settings - Named the HelpDesk added email and selected language.
+Finished the setup through the web installer and confirmed the system was operational. in System Settings - Named the HelpDesk "Tens Help Desk", added email and selected language.
 
 <img width="721" height="439" alt="18 installing osTicket username" src="https://github.com/user-attachments/assets/bac3b778-9395-491e-a475-243fa7058896" />
 <img width="709" height="431" alt="15  osTicket Installer" src="https://github.com/user-attachments/assets/03236a31-19a1-44a7-a619-d0bfc9873042" />
