@@ -9,9 +9,7 @@ Deploy and configure the osTicket ticketing system on a Windows Server virtual m
 Deploy a working help desk environment using osTicket on a virtual machine.
 Configure a web server and database to support the application.
 Create departments, agents, and user accounts within the ticketing system.
-Simulate real-world IT support tickets and workflow.
-Practice troubleshooting and resolving common IT issues through ticket management.
-Document the full deployment and configuration process.
+
 
 
 <h2>Environments and Technologies Used</h2>
