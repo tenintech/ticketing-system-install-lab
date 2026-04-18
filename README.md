@@ -155,6 +155,7 @@ http://localhost/osTicket/
 
 </p>
 <p>
+Opened Dashboard of Admin Portal signed in as Teneka.
 <img width="764" height="457" alt="admin dash" src="https://github.com/user-attachments/assets/e52ada2d-c6a4-41fc-bf47-bf349552f000" />
 
 </p>
