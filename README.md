@@ -165,7 +165,7 @@ Opened Dashboard of Admin Portal signed in as Teneka.
   
 ### 8. Adding Agents and Configuring Service Level Agreements (SLA)
 
-Adding a new Department - Sys Admin
+Used admin portal under Departments -> Settings to add a new Department - Sys Admin
 
 <img width="485" height="454" alt="add dept sys admin" src="https://github.com/user-attachments/assets/9f499d23-3c4b-4d9c-9383-e85bdb9f3bf1" />
 
