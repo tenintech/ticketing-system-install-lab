@@ -175,6 +175,7 @@ Admin Control --> Agents --> Add New Agent
 <p>
    
 Set up 3 SLAs:
+Manage --> SLA
 - Sev-A (Grace Period: 1 hour, Schedule: 24/7)
 - Sev-B (Grace Period: 4 hours, Schedule: 24/7)
 - Sev-C (Grace Period: 8 hours, Business Hours)
