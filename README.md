@@ -97,7 +97,8 @@ Renamed:
 
 upload → osTicket
 
-Restarted IIS.
+Restarted IIS. Stop and restart server to reset.
+<img width="503" height="369" alt="12  mysql installed " src="https://github.com/user-attachments/assets/20d95559-b049-42a2-a3a0-a05b17b329ec" />
 
 
 ### 5. Enable Required PHP Extensions
