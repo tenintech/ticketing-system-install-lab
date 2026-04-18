@@ -81,9 +81,14 @@ Registered PHP inside IIS. This is a language that will allow osTicket to run.
 <img width="875" height="454" alt="13  Register PHP" src="https://github.com/user-attachments/assets/dc1e143c-fa50-47c1-9f5d-918858f97d04" />
 
 
+Launching the Configuration Wizard for MySql:
+
+<img width="503" height="369" alt="12  mysql installed " src="https://github.com/user-attachments/assets/b2df6209-15d7-4c6f-af05-77adfa57f90f" />
+
+
 ### 4. Deploy osTicket to IIS
 
-Extracted the osTicket php language files and moved them into the web server directory. a file I named PHP on the C Drive:
+Extracted the osTicket php language files and moved them into the web server directory, a file I named PHP on the C Drive:
 <img width="907" height="446" alt="10 Extracting PHP files copying to C drive" src="https://github.com/user-attachments/assets/436ff4a8-aeff-454f-a462-8879245346dd" />
 
 C:\inetpub\wwwroot
