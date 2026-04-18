@@ -77,7 +77,7 @@ Created the PHP directory:
 
 C:\PHP
 
-Registered PHP inside IIS.
+Registered PHP inside IIS. This is a language that will allow osTicket to run.
 <img width="875" height="454" alt="13  Register PHP" src="https://github.com/user-attachments/assets/dc1e143c-fa50-47c1-9f5d-918858f97d04" />
 
 
