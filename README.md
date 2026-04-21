@@ -109,6 +109,7 @@ This resolved the installation warnings.
 ### 6. Configure the Database
 
 Installed HeidiSQL and created the osTicket database:
+<img width="494" height="370" alt="19  Heidi SQL installer" src="https://github.com/user-attachments/assets/43125f62-525a-4e08-b924-d6f39c4073dc" />
 
 Database name:
 osTicket
