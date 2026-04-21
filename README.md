@@ -27,7 +27,7 @@ Deploy and configure the osTicket ticketing system on a Windows Server virtual m
 - Install Web Server (IIS) 
 - Install Database (MySQL)
 - Deploy OS Ticket 
-- Item 5
+
 
 <h2>Installation Steps</h2>
 
