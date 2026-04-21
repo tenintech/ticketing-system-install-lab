@@ -15,18 +15,7 @@ Deploy and configure the osTicket ticketing system on a Windows Server virtual m
 - Remote Desktop Protocol (RDP)
 - PHP - Web Server Language
 - Remote Desktop Connection 
-
-
-<h2>Operating Systems Used </h2>
-
 - Windows 10 V2 x64</b> (22H2)
-
-<h2>List of Prerequisites</h2>
-
-- Create VM to install osTicket
-- Install Web Server (IIS) 
-- Install Database (MySQL)
-- Deploy OS Ticket 
 
 
 <h2>Installation Steps</h2>
